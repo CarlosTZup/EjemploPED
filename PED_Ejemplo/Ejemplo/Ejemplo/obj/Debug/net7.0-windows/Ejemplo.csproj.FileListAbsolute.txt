@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\bin\Debug\net7.0-windows\Ejemplo.exe
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\bin\Debug\net7.0-windows\Ejemplo.deps.json
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\bin\Debug\net7.0-windows\Ejemplo.runtimeconfig.json
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\bin\Debug\net7.0-windows\Ejemplo.dll
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\bin\Debug\net7.0-windows\Ejemplo.pdb
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.Form1.resources
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.AssemblyInfo.cs
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.dll
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\refint\Ejemplo.dll
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.pdb
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\Ejemplo.genruntimeconfig.cache
+C:\Users\carlo\source\repos\udbpre\PEDDES\PED_Ejemplo\Ejemplo\Ejemplo\obj\Debug\net7.0-windows\ref\Ejemplo.dll
