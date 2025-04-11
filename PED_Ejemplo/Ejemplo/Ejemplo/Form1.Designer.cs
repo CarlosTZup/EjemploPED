@@ -36,6 +36,9 @@
             idbox = new TextBox();
             button1 = new Button();
             dataGridView1 = new DataGridView();
+            button2 = new Button();
+            button3 = new Button();
+            button4 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -108,12 +111,45 @@
             dataGridView1.Size = new Size(546, 356);
             dataGridView1.TabIndex = 10;
             // 
+            // button2
+            // 
+            button2.Location = new Point(224, 324);
+            button2.Name = "button2";
+            button2.Size = new Size(94, 29);
+            button2.TabIndex = 11;
+            button2.Text = "Editar";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(57, 383);
+            button3.Name = "button3";
+            button3.Size = new Size(94, 29);
+            button3.TabIndex = 12;
+            button3.Text = "Buscar";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(224, 383);
+            button4.Name = "button4";
+            button4.Size = new Size(94, 29);
+            button4.TabIndex = 13;
+            button4.Text = "Eliminar";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(1030, 476);
+            Controls.Add(button4);
+            Controls.Add(button3);
+            Controls.Add(button2);
             Controls.Add(dataGridView1);
             Controls.Add(button1);
             Controls.Add(idbox);
@@ -139,5 +175,8 @@
         private TextBox idbox;
         private Button button1;
         private DataGridView dataGridView1;
+        private Button button2;
+        private Button button3;
+        private Button button4;
     }
 }
